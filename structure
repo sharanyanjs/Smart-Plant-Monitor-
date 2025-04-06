@@ -1,0 +1,13 @@
+smart-plant-monitor/
+├── arduino/
+│   └── plant_monitor.ino
+├── web-dashboard/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── MoistureChart.jsx
+│   │   ├── App.jsx
+│   │   └── index.js
+│   └── package.json
+├── README.md
+└── .gitignore
